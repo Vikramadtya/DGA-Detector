@@ -1,3 +1,6 @@
+<p align="center">  <img width="350" height="350" src="https://github.com/Vikramadtya/DGA-Detector/blob/main/Assets/detection.svg">  </p>
+
+
 # Introduction
 
 Adversaries have stopped using hard-coded domain lists and IP addresses, which are useless once blocked DGAs by comparison is easy to implement, diﬃcult to block, and maybe impossible to predict in advance and can be quickly modiﬁed if the previously used algorithm becomes known.
